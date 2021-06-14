@@ -1,0 +1,25 @@
+{
+  "name": "@vhs/nomos-sdk",
+  "version": "1.0.0",
+  "description": "Nomos SDK",
+  "main": "lib/index.js",
+  "type": "module",
+  "bin": {
+    "nomos": "bin/index.js"
+  },
+  "scripts": {
+    "start": "node bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thomas LaFreniere",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhs/nomos-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vhs/nomos-sdk/issues"
+  },
+  "homepage": "https://github.com/vhs/nomos-sdk#readme"
+}
